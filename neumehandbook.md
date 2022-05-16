@@ -75,4 +75,4 @@ Each grant request must include the details below:
 * Please address the invoice to: HIFI Labs, 595 Pacific Ave, San Fransisco, CA 94133, USA 
 
 ### I want to submit a work proposal, what should I do now?
-We can't guarantee there will always be funding available for proposals so the best thing to do is jump on Discord and get to know more about the project, and the team. Any requests for proposals will be submitted on Discord.
+We can't guarantee there will always be funding available for proposals so the best thing to do is jump on Discord and get to know more about the project, and the team. Any requests for proposals will viewable on the Open Issues Board.
