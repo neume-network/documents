@@ -2,7 +2,7 @@
 
 neume is an open source, socially scalable, project to index all activity within the emerging Web3 Music industry. The neume handbook details the method on which this organisation operates, enabling contributors to quickly get up to speed and add value. 
 
-neume is an open source project funded and supported by [HIFI Labs](https://www.hifilabs.co/)
+neume is an open source project funded and supported by [HIFI Labs](https://www.hifilabs.co/).
 
 ## why this, why now?
 
@@ -58,7 +58,7 @@ Once you have received approval for your project and begin working, it’s impor
 Any additional hours/work you do that wasn’t approved will not automatically be funded. We know that things change as you get deeper into a project and sometimes other factors outside your control will impact your deliverables. That’s ok, but what is important is that you communicate these changes clearly with the team as and when they arise.
 
 ### Getting Paid
-If your proposal has been approved, you have completed your tasks to the agreed standard and you now wish to get paid, please create an invoice using [Request](https://request.network/en/) and make sure to address it to dan@ hifilabs.co
+If your proposal has been approved, you have completed your tasks to the agreed standard and you now wish to get paid, please create an invoice using [Request](https://request.network/en/) and make sure to address it to dan@ hifilabs.co .
 
 Please follow the instructions [here](https://support.request.network/getting-started-guide) to set up your Request account and create your first invoice.
 
