@@ -7,9 +7,9 @@
 This document outlines the neume network's architecture. It is created to
 
 - increase the project's development velocity,
-- increase quality and to establish a vector of due diligence through upfront
+- increase quality and establish a vector of due diligence through upfront
   specification; and
-- to ease onboarding for new neume contribiutors.
+- to ease onboarding for new neume contributors.
 
 ## Document Scope
 
@@ -24,7 +24,7 @@ descriptive style of writing is recommended.
 
 The initial neume network architecture shall be created by building a socially
 scalable indexing process for Ethereum-like networks with socially scalable,
-herein, refering to the conscious design process of allowing many contributors
+herein, referring to the conscious design process of allowing many contributors
 to work asynchronously and in parallel on the software project.
 
 Whereas the neume network vision may potentially go beyond just indexing
@@ -35,7 +35,7 @@ in libre) indexer first.
 
 ## Use of Programming Languages
 
-With potential future exceptions, all neume network components shall be build
+With potential future exceptions, all neume network components shall be built
 with the current latest version of the JavaScript programming language, and
 specifically by making use of the node.js standard library.
 
@@ -54,10 +54,10 @@ independent npm packages.
 
 ## Licensing
 
-The neume network must use the GPL-3.0-only license whereever possible [3].
+The neume network must use the GPL-3.0-only license wherever possible [3].
 Whenever possible, contributors must be capable of retaining the copyright for
 their submissions. Exceptions to the above statements must prioritize creating
-interest-bearing effects for its contributors, as to ensure proper individual
+interest-bearing effects for its contributors so as to ensure proper individual
 incentivization for everyone helping to build the neume network.
 
 ## Contributing
@@ -65,7 +65,7 @@ incentivization for everyone helping to build the neume network.
 Contributing to the neume network shall be doable and rewarding. The neume
 network community acknowledges that intelligence is a social effect, despite it
 feeling personal. We believe that solutions aren't invented so much as
-discovered. Roadmaps and individual creativity are less important that a
+discovered. Roadmaps and individual creativity are less important than a
 reliable, shared process [6].
 
 ### Principles
@@ -107,7 +107,7 @@ improving the community's confidence in shipping new code to the main branch.
 #### Automation over Chores
 
 All contributors shall prioritize automation over chores. Implementations of
-automation must be reproducable, sharable between contributors and (ideally)
+automation must be reproducible, sharable between contributors and (ideally)
 tested.
 
 ### Safety
