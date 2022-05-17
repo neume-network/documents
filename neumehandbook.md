@@ -32,7 +32,7 @@ All work will be paid retroactively in USDC either in stages, upon partial compl
 If you intend to incur outside expenditure for your project that you wish to be reimbursed for, this will need to be estimated and the amount approved in advance. A receipt for expenditure will need to be provided in order to receive reimbursements.
 
 ### Deciding what should be in your proposal
-In some instances you will have clear deliverables as set by the neume team (e.g. tasks or chunks of work that the neume team have already provided an outline for). When this is the case, your proposal should outline how you intend to achieve these outcomes and the amount of time you need to complete them. We have an Open Task Board where issues can be viewed [here](https://github.com/orgs/music-os/projects/2).
+In some instances you will have clear deliverables as set by the neume team (e.g. tasks or chunks of work that the neume team have already provided an outline for). When this is the case, your proposal should outline how you intend to achieve these outcomes and the amount of time you need to complete them. We have an Open Task Board where issues can be viewed [here](https://github.com/orgs/neume-network/projects/2).
 
 In other instances, where you will be proposing something new, we recommend discussing your ideas and/or getting feedback from the neume team on the neume section within the HIFI Labs [Discord](https://discord.gg/P5rrpZN4ds) first. This will help to ensure your intentions and the needs of the neume project are aligned.
 
