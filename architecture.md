@@ -40,3 +40,8 @@ Below is a visual overview of the above components and how they interact with
 miscellaneous software like an Ethereum full node.
 
 ![](./assets/neume-network-architecture.png)
+
+## Strategies Lifecycle Pattern
+
+For details see
+[neume-network/strategies/readme.md]https://github.com/neume-network/strategies#implementing-new-strategies).
