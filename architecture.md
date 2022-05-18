@@ -44,4 +44,4 @@ miscellaneous software like an Ethereum full node.
 ## Strategies Lifecycle Pattern
 
 For details see
-[neume-network/strategies/readme.md]https://github.com/neume-network/strategies#implementing-new-strategies).
+[neume-network/strategies/readme.md](https://github.com/neume-network/strategies#implementing-new-strategies).
