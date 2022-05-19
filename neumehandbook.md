@@ -58,9 +58,9 @@ Once you have received approval for your project and begin working, it’s impor
 Any additional hours/work you do that wasn’t approved will not automatically be funded. We know that things change as you get deeper into a project and sometimes other factors outside your control will impact your deliverables. That’s ok, but what is important is that you communicate these changes clearly with the team as and when they arise.
 
 ### Getting Paid
-If your proposal has been approved, you have completed your tasks to the agreed standard and you now wish to get paid, please create an invoice using [Request](https://request.network/en/) and make sure to address it to dan@ hifilabs.co .
+If your proposal has been approved, you have completed your tasks to the agreed standard and you now wish to get paid, please create an invoice and send it to dan@ hifilabs.co , referencing the work that has been done. 
 
-Please follow the instructions [here](https://support.request.network/getting-started-guide) to set up your Request account and create your first invoice.
+Note, as HIFI Labs is a company based in the US, you will be required to send over either a W-9 (US citizen) or W-8BEN (non-US cisizen) form with your first invoice.
 
 IMPORTANT NOTE: Allow for up to 14 days for your invoice to be paid.
 
