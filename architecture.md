@@ -1,13 +1,13 @@
-# neume-network architecture
+# neume network architecture
 
 ## Purpose
 
 The purpose of this document is to describe the architecture of the
-neume-network such that it can be effectively communicated to contributors.
+neume network such that it can be effectively communicated to contributors.
 
 ## Component Structure
 
-The neume-network is currently set up as a collection of individual npm
+The neume network is currently set up as a collection of individual npm
 packages. At the core is neume-network/core that imports
 neume-network/strategies as a git submodule. All other neume-network components
 are integrated through npm's package management system.
