@@ -1,4 +1,4 @@
-# Social Architecture of the Neume Network
+# social architecture of the neume network
 
 - Type: Living document
 
