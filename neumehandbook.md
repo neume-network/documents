@@ -1,10 +1,12 @@
 # neume handbook
 
+## Introduction
+
 neume is an open source, socially scalable, project to index all activity within the emerging Web3 Music industry. The neume handbook details the method on which this organisation operates, enabling contributors to quickly get up to speed and add value. 
 
 neume is an open source project funded and supported by [HIFI Labs](https://www.hifilabs.co/).
 
-## why this, why now?
+## Why this, why now?
 
 Web3 Music has developed significantly since the early days of 2015/16. Intial ideas have become relatively successful experiments attracting [c.$90m](https://docs.google.com/presentation/d/1YFGL73BMfVtgM3dOR8wRmOoXYC-d7AHRcq5rQENg5l0/edit?usp=sharing) in primary sales of music NFTs in 2021. Social tokens are starting to power artist owned universes for their fans,such as [racOS](https://rac.fm/). 
 
@@ -22,11 +24,20 @@ neume is solving these challenges through [social scalability](http://unenumerat
 
 We believe that neume will be part of the solution to unlock the next phase of growth of the Web3 Music industry by providing open infrastructure that brings scale benefits to experimentation.
 
-## How to get an offer approved to start working on neume
+## Types of contribution to neume
+
+Contribution to neume can be defined across a number of categories:
+- Community discussion within the relevent neume channels on the [HIFI Discord](https://discord.gg/sZFFPmFy7h)
+- Protocol Improvement proposals through the neuIP process, as defined in [neuIP-1](https://github.com/neume-network/neuIPs/blob/main/neuIPs/neuIP-1.md)
+- Open Source Development, through the process detailed below, focussed on defined [Tasks](https://github.com/orgs/neume-network/projects/2)
+
+## How to get an offer approved to start working on a Task in neume
+
+Entities wishing to contribute to neume should start their engagement as a Contributor, as defined within [neume Roles & Responsibilities](https://github.com/neume-network/documents/blob/main/roles%26responsibilities.md).
 
 To start getting paid for your work on neume you will need to create a one page proposal outlining the work you intend to do, the amount of time it will take you and your hourly rate in USD. The proposal should be sent to danfowler#8104 on Discord for approval.
 
-All work will be paid retroactively in USDC either in stages, upon partial completion of your project, or in full upon completion.
+All work will be paid retroactively in USDC or USD, either in stages, upon partial completion of your project, or in full upon completion.
 
 ### Expenses
 If you intend to incur outside expenditure for your project that you wish to be reimbursed for, this will need to be estimated and the amount approved in advance. A receipt for expenditure will need to be provided in order to receive reimbursements.
@@ -70,7 +81,7 @@ Each grant request must include the details below:
 * Invoice date
 * Your country
 * Description of payment reason
-* Payment amount (USDC)
+* Payment amount (USDC or USD)
 * Payment details - crypto-wallet address
 * Please address the invoice to: HIFI Labs, 595 Pacific Ave, San Fransisco, CA 94133, USA 
 
