@@ -58,7 +58,7 @@ Responsibilities:
 - Completion of tasks as per agreed accepted proposal
 
 Details:
-- Submit proposal for acceptance by Core Team as per [neume handbook](https://github.com/neume-network/documents/blob/main/neumehandbook.md_)
+- Submit proposal for acceptance by Core Team as per [neume handbook](https://github.com/neume-network/documents/blob/main/neumehandbook.md)
 
 ## Engagement
 
