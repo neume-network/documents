@@ -115,6 +115,15 @@ tested.
 All neume network code repositories must include a `CODE_OF_CONDUCT.md`
 document to allow contributing safely.
 
+### Empathy
+
+All contributors actively attempt to comprehend their peers thinking and
+backgrounds during design and execution processes.
+
+Empathic design is a reflection of our blind spots and strengths without an
+entitlement feeling understood. Instrad acknowledging complexity and
+responsibility of effectively communicating.
+
 ## References:
 
 - 1: Dijkstra, Edsger W. "On the role of scientific thought." Selected writings
