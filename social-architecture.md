@@ -110,12 +110,7 @@ All contributors shall prioritize automation over chores. Implementations of
 automation must be reproducible, sharable between contributors and (ideally)
 tested.
 
-### Safety
-
-All neume network code repositories must include a `CODE_OF_CONDUCT.md`
-document to allow contributing safely.
-
-### Empathy
+#### Empathy
 
 All contributors actively attempt to comprehend their peers thinking and
 backgrounds during design and execution processes.
@@ -123,6 +118,11 @@ backgrounds during design and execution processes.
 Empathic design is a reflection of our blind spots and strengths without an
 entitlement feeling understood. Instrad acknowledging complexity and
 responsibility of effectively communicating.
+
+#### Safety
+
+All neume network code repositories must include a `CODE_OF_CONDUCT.md`
+document to allow contributing safely.
 
 ## References:
 
