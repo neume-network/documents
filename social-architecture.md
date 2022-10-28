@@ -115,7 +115,7 @@ tested.
 All contributors actively attempt to comprehend their peers thinking and
 backgrounds during design and execution processes.
 
-Empathic design is a reflection of our blind spots and strengths without an
+Empathic contributing is a reflection of our blind spots and strengths without an
 entitlement feeling understood. Instead acknowledging complexity and
 responsibility of effectively communicating.
 
