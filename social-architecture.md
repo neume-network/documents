@@ -60,6 +60,17 @@ their submissions. Exceptions to the above statements must prioritize creating
 interest-bearing effects for its contributors so as to ensure proper individual
 incentivization for everyone helping to build the neume network.
 
+## Identity
+
+The neume network is a set of equal peers that align and coordinate around an open set of evolving problems. 
+Despite neume contributors acting in cohesion or highly aligned, as neume peers we acknowledge this to be a temporary artifact subject to evolutionary change.
+There is no final state and no one authoritative vision or roadmap for neume. There are problems and change sets addressing these as solutions.
+Individual cohesive groups may agree on internal development timelines, roadmaps or visions - but within the neume network institution no such things exist.
+
+## Funding
+
+Individuals and cohesive groups develop neume towards funding-specific goals. The terms of funding or these goals are as of now outside of this document's scope.
+
 ## Contributing
 
 Contributing to the neume network shall be doable and rewarding. The neume
