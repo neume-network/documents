@@ -71,7 +71,7 @@ Any additional hours/work you do that wasn’t approved will not automatically b
 ### Getting Paid
 If your proposal has been approved, you have completed your tasks to the agreed standard and you now wish to get paid, please create an invoice and send it to dan@ hifilabs.co , referencing the work that has been done. 
 
-Note, as HIFI Labs is a company based in the US, you will be required to send over either a W-9 (US citizen) or W-8BEN (non-US cisizen) form with your first invoice.
+Note, as HIFI Labs is a company based in the US, you will be required to send over either a W-9 (US citizen) or W-8BEN (non-US citizen) form with your first invoice.
 
 IMPORTANT NOTE: Allow for up to 14 days for your invoice to be paid.
 
