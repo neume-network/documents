@@ -4,7 +4,7 @@
 
 neume is an open source, socially scalable, project to index all activity within the emerging Web3 Music industry. The neume handbook details the method on which this organisation operates, enabling contributors to quickly get up to speed and add value. 
 
-neume is an open source project funded and supported by [HIFI Labs](https://www.hifilabs.co/).
+neume is an open source project initially funded and supported through incubation by [HIFI Labs](https://www.hifilabs.co/).
 
 ## Why this, why now?
 
