@@ -17,8 +17,8 @@ Any person or company that engages with neume is defined as an "entity" in the f
 ### Core team
 
 Who:
-- HIFI team + contracted entities
-    - Dan(Ops lead), Tim (Tech lead)
+- Core team
+    - Dan (djfnd), Vaibhav (il3ven), Pierre (reimertz) 
 
 Responsibilities:
 - Project administration & maintenance
@@ -36,7 +36,7 @@ Details:
     
 ### Core contributors
 Who:
-- External entities on consecutive pre-agreed fixed term agreements
+- External entities on pre-agreed fixed term agreements
 
 Responsibilities:
 - Assigned wider-ranging tasks
